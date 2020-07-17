@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# folders
+/old
+/memory
+
 # testing
 /coverage
 
